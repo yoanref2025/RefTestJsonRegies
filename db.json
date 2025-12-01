@@ -118,6 +118,34 @@
       "nom": "Evènements village",
       "t_regie": "CAISSE",
       "t_theme": "VERT_CLAIR"
+    },
+    {
+      "uid": "193f39de-12ad-428f-8d59-c8167cd93842",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
+      "nom": "Marché de Noël village",
+      "t_regie": "CAISSE",
+      "t_theme": "ROSE"
+    },
+    {
+      "uid": "b1ebdc11-0785-489c-8429-1983b3bac1d5",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
+      "nom": "Marché de Noël centre",
+      "t_regie": "CAISSE",
+      "t_theme": "ROSE"
+    },
+    {
+      "uid": "e8232428-9880-450e-8b30-d994857dce70",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
+      "nom": "Marché de Noël périphérie",
+      "t_regie": "CAISSE",
+      "t_theme": "ROSE"
+    },
+    {
+      "uid": "dc4b2d43-fc08-461b-9eb5-7bd2a0525292",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
+      "nom": "Marché de Noël parkings",
+      "t_regie": "CAISSE",
+      "t_theme": "ROSE"
     }
   ]
 }
