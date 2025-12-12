@@ -6,7 +6,7 @@
       "nom": "Evènementiel",
       "t_regie": "CAISSE",
 	  "t_theme": "BLEU_CLAIR",
-	  "ico_name": "evenement"
+	  "t_ico": "evenement"
     },
     {
       "uid": "544d7401-93d0-432a-8147-a0b0254562ae",
@@ -14,7 +14,7 @@
       "nom": "Droits de Place",
       "t_regie": "DDP",
 	  "t_theme": "VERT_CLAIR",
-	  "ico_name": "marche"
+	  "t_ico": "marche"
     },
     {
       "uid": "01d268d8-fed9-41dd-9373-19d06059a289",
@@ -22,7 +22,7 @@
       "nom": "Marchés Nocturnes",
       "t_regie": "DDP",
 	  "t_theme": "VERT_FONCE",
-	  "ico_name": "marche"
+	  "t_ico": "marche"
     },
     {
       "uid": "8c087a8e-5f4d-4ae9-9350-89930ac2656f",
@@ -30,7 +30,7 @@
       "nom": "Occupation des Terrasses",
       "t_regie": "ODP",
       "t_theme": "ORANGE_FONCE",
-	  "ico_name": "terrasse"
+	  "t_ico": "terrasse"
     },
     {
       "uid": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
@@ -38,7 +38,7 @@
       "nom": "Foires et Marchés",
       "t_regie": "DDP",
       "t_theme": "ORANGE_CLAIR",
-	  "ico_name": "marche"
+	  "t_ico": "marche"
     },
     {
       "uid": "960615d7-67dd-4fa5-996e-9b134259de72",
@@ -46,7 +46,7 @@
       "nom": "Gestion des Trotinettes",
       "t_regie": "CAISSE",
       "t_theme": "BLEU_FONCE",
-	  "ico_name": "parking"
+	  "t_ico": "parking"
     },
     {
       "uid": "74888f93-35ec-4d62-b4cd-922c53b4bf0c",
@@ -54,7 +54,7 @@
       "nom": "Musée centre",
       "t_regie": "CAISSE",
       "t_theme": "JAUNE",
-	  "ico_name": "musee"
+	  "t_ico": "musee"
     },
     {
       "uid": "5e0994d9-705c-47d4-a8be-675107b0af6f",
@@ -62,7 +62,7 @@
       "nom": "Piscine centre",
       "t_regie": "CAISSE",
       "t_theme": "BLEU_CLAIR",
-	  "ico_name": "piscine"
+	  "t_ico": "piscine"
     },
     {
       "uid": "43f0ff08-54f7-4b43-9d4e-81d6fcaed7d8",
@@ -70,7 +70,7 @@
       "nom": "Parkings",
       "t_regie": "CAISSE",
       "t_theme": "MARRON_FONCE",
-	  "ico_name": "parking"
+	  "t_ico": "parking"
     },
     {
       "uid": "e5061ada-c158-4ffa-b3ee-00538b410bf6",
@@ -78,7 +78,7 @@
       "nom": "Campings",
       "t_regie": "CAISSE",
       "t_theme": "VERT_FONCE",
-	  "ico_name": "camping"
+	  "t_ico": "camping"
     },
     {
       "uid": "6a0dcc99-25a9-4419-b49c-b49f9f22e5b4",
@@ -86,7 +86,7 @@
       "nom": "Evènements centre",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
-	  "ico_name": "evenement"
+	  "t_ico": "evenement"
     },
     {
       "uid": "214da268-01df-485c-86e5-c583d1c985f5",
@@ -94,7 +94,7 @@
       "nom": "Marchés",
       "t_regie": "CAISSE",
       "t_theme": "ORANGE_FONCE",
-	  "ico_name": "marche"
+	  "t_ico": "marche"
     },
     {
       "uid": "7b29fb95-3447-4e2e-8b01-f6488275df65",
@@ -102,7 +102,7 @@
       "nom": "Brocante",
       "t_regie": "CAISSE",
       "t_theme": "VIOLET",
-	  "ico_name": "brocante"
+	  "t_ico": "brocante"
     },
     {
       "uid": "087f407f-5b4e-4903-a0a1-f82617e51466",
@@ -110,7 +110,7 @@
       "nom": "Musée village",
       "t_regie": "CAISSE",
       "t_theme": "MARRON_CLAIR",
-	  "ico_name": "musee"
+	  "t_ico": "musee"
     },
     {
       "uid": "b6a82983-cc6d-4d7a-b014-3ff6f8f733d3",
@@ -118,7 +118,7 @@
       "nom": "Piscine village",
       "t_regie": "CAISSE",
       "t_theme": "BLEU_FONCE",
-	  "ico_name": "piscine"
+	  "t_ico": "piscine"
     },
     {
       "uid": "f13b7f49-885e-43ab-b22d-823eeeac7bfd",
@@ -126,7 +126,7 @@
       "nom": "Terrasse",
       "t_regie": "CAISSE",
       "t_theme": "ORANGE_CLAIR",
-	  "ico_name": "terrasse"
+	  "t_ico": "terrasse"
     },
     {
       "uid": "4f75b01b-5a4b-4c7b-b49c-157518506975",
@@ -134,7 +134,7 @@
       "nom": "Evènements village",
       "t_regie": "CAISSE",
       "t_theme": "VERT_CLAIR",
-	  "ico_name": "evenement"
+	  "t_ico": "evenement"
     },
     {
       "uid": "193f39de-12ad-428f-8d59-c8167cd93842",
@@ -142,7 +142,7 @@
       "nom": "Marché de Noël village",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
-	  "ico_name": "marche"
+	  "t_ico": "marche"
     },
     {
       "uid": "b1ebdc11-0785-489c-8429-1983b3bac1d5",
@@ -150,7 +150,7 @@
       "nom": "Marché de Noël centre",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
-	  "ico_name": "marche"
+	  "t_ico": "marche"
     },
     {
       "uid": "e8232428-9880-450e-8b30-d994857dce70",
@@ -158,7 +158,7 @@
       "nom": "Marché de Noël périphérie",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
-	  "ico_name": "marche"
+	  "t_ico": "marche"
     },
     {
       "uid": "dc4b2d43-fc08-461b-9eb5-7bd2a0525292",
@@ -166,7 +166,7 @@
       "nom": "Marché de Noël parkings",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
-	  "ico_name": "marche"
+	  "t_ico": "marche"
     }
   ]
 }
