@@ -167,6 +167,22 @@
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
 	  "t_ico": "marche"
+    },
+    {
+      "uid": "475aedb4-294c-4ecb-a64a-7e0a8ad64ac0",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
+      "nom": "Fête foraine",
+      "t_regie": "CAISSE",
+      "t_theme": "VERT_CLAIR",
+	  "t_ico": "foire"
+    },
+    {
+      "uid": "877b80dc-c9c7-4f0a-aefa-705cc3217600",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
+      "nom": "Food Truck",
+      "t_regie": "CAISSE",
+      "t_theme": "VIOLET",
+	  "t_ico": "food_truck"
     }
   ]
 }
