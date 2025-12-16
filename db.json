@@ -183,6 +183,38 @@
       "t_regie": "CAISSE",
       "t_theme": "VIOLET",
 	  "t_ico": "food_truck"
+    },
+    {
+      "uid": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+      "uid_sg": "937e3c53-cff3-4182-854b-dd3f6e3b322a",
+      "nom": "Cirques et Evènements",
+      "t_regie": "CAISSE",
+      "t_theme": "ORANGE_CLAIR",
+	  "t_ico": "foire"
+    },
+    {
+      "uid": "b3b6ea74-28ae-4b91-a9ef-74a25e433f03",
+      "uid_sg": "937e3c53-cff3-4182-854b-dd3f6e3b322a",
+      "nom": "Foires et Marchés",
+      "t_regie": "CAISSE",
+      "t_theme": "VERT_CLAIR",
+	  "t_ico": "marche"
+    },
+    {
+      "uid": "7af538c4-c1d9-4e79-a932-25398d6818ef",
+      "uid_sg": "8b0babdd-bb04-4096-81d3-b6078acc39ff",
+      "nom": "Foires et Evènements",
+      "t_regie": "CAISSE",
+      "t_theme": "BLEU_CLAIR",
+	  "t_ico": "foire"
+    },
+    {
+      "uid": "b03c3b96-ee9b-456c-9a01-8ba113a459ce",
+      "uid_sg": "8b0babdd-bb04-4096-81d3-b6078acc39ff",
+      "nom": "Droits de Place",
+      "t_regie": "CAISSE",
+      "t_theme": "MARRON_CLAIR",
+	  "t_ico": "marche"
     }
   ]
 }
