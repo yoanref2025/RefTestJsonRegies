@@ -2,7 +2,7 @@
   "regies": [
     {
       "uid": "b843c5b7-12ca-42e9-9876-078aac08bb80",
-      "uid_sg": "acd8fffa-eb65-4cbc-b4ec-703216ce205b",
+      "uid_g": "0bb708e8-f19d-40cd-afc9-09a7c84462ed",
       "nom": "Evènementiel",
       "t_regie": "CAISSE",
 	  "t_theme": "BLEU_CLAIR",
@@ -10,15 +10,23 @@
     },
     {
       "uid": "544d7401-93d0-432a-8147-a0b0254562ae",
-      "uid_sg": "2bb59944-f6c0-4cf0-b35f-ef761db94d1d",
+      "uid_g": "0bb708e8-f19d-40cd-afc9-09a7c84462ed",
       "nom": "Droits de Place",
       "t_regie": "DDP",
 	  "t_theme": "VERT_CLAIR",
 	  "t_ico": "marche"
     },
     {
+      "uid": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+      "uid_g": "9e54dab3-fc59-4d81-830d-846088738882",
+      "nom": "Foires et Marchés",
+      "t_regie": "DDP",
+      "t_theme": "ORANGE_CLAIR",
+	  "t_ico": "marche"
+    },
+    {
       "uid": "01d268d8-fed9-41dd-9373-19d06059a289",
-      "uid_sg": "fda89d0d-0952-4947-9c61-9433ec27e9ea",
+      "uid_g": "9e54dab3-fc59-4d81-830d-846088738882",
       "nom": "Marchés Nocturnes",
       "t_regie": "DDP",
 	  "t_theme": "VERT_FONCE",
@@ -26,23 +34,15 @@
     },
     {
       "uid": "8c087a8e-5f4d-4ae9-9350-89930ac2656f",
-      "uid_sg": "bf3ac67d-03d4-42da-839c-546c60a51533",
+      "uid_g": "9e54dab3-fc59-4d81-830d-846088738882",
       "nom": "Occupation des Terrasses",
       "t_regie": "ODP",
       "t_theme": "ORANGE_FONCE",
 	  "t_ico": "terrasse"
     },
     {
-      "uid": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-      "uid_sg": "ad634c1b-9b33-437d-8a77-f88174b98b5a",
-      "nom": "Foires et Marchés",
-      "t_regie": "DDP",
-      "t_theme": "ORANGE_CLAIR",
-	  "t_ico": "marche"
-    },
-    {
       "uid": "960615d7-67dd-4fa5-996e-9b134259de72",
-      "uid_sg": "9746fa47-1048-46ba-9304-5b5366b267a7",
+      "uid_g": "462291e3-b2df-4f54-b62f-952bbe8e87f0",
       "nom": "Gestion des Trotinettes",
       "t_regie": "CAISSE",
       "t_theme": "BLEU_FONCE",
@@ -50,7 +50,7 @@
     },
     {
       "uid": "74888f93-35ec-4d62-b4cd-922c53b4bf0c",
-      "uid_sg": "52a75396-ac55-4590-bb11-302aafe5d17f",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Musée centre",
       "t_regie": "CAISSE",
       "t_theme": "JAUNE",
@@ -58,7 +58,7 @@
     },
     {
       "uid": "5e0994d9-705c-47d4-a8be-675107b0af6f",
-      "uid_sg": "1337e062-0e7d-4b24-8d2e-eccebcc86212",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Piscine centre",
       "t_regie": "CAISSE",
       "t_theme": "BLEU_CLAIR",
@@ -66,7 +66,7 @@
     },
     {
       "uid": "43f0ff08-54f7-4b43-9d4e-81d6fcaed7d8",
-      "uid_sg": "f7d558fd-5a6c-44b8-b313-597e51214f2f",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Parkings",
       "t_regie": "CAISSE",
       "t_theme": "MARRON_FONCE",
@@ -74,7 +74,7 @@
     },
     {
       "uid": "e5061ada-c158-4ffa-b3ee-00538b410bf6",
-      "uid_sg": "58f5a6df-0638-4b0e-97b2-ba35878bbd25",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Campings",
       "t_regie": "CAISSE",
       "t_theme": "VERT_FONCE",
@@ -82,7 +82,7 @@
     },
     {
       "uid": "ecdba066-a12a-4fbe-94bd-9d5db3958799",
-      "uid_sg": "f9622832-c018-43fb-8c62-5c5180fc27d4",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Evènements centre",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
@@ -90,7 +90,7 @@
     },
     {
       "uid": "214da268-01df-485c-86e5-c583d1c985f5",
-      "uid_sg": "96cb74f8-5b63-444c-a30b-29a7880ecb5c",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Marchés",
       "t_regie": "CAISSE",
       "t_theme": "ORANGE_FONCE",
@@ -98,7 +98,7 @@
     },
     {
       "uid": "7b29fb95-3447-4e2e-8b01-f6488275df65",
-      "uid_sg": "41dd242f-d611-43e0-b13e-47f65859cb90",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Brocante",
       "t_regie": "CAISSE",
       "t_theme": "VIOLET",
@@ -106,7 +106,7 @@
     },
     {
       "uid": "087f407f-5b4e-4903-a0a1-f82617e51466",
-      "uid_sg": "5b92ae3c-28cc-45cd-bf76-3ec4fcdf38ae",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Musée village",
       "t_regie": "CAISSE",
       "t_theme": "MARRON_CLAIR",
@@ -114,7 +114,7 @@
     },
     {
       "uid": "b6a82983-cc6d-4d7a-b014-3ff6f8f733d3",
-      "uid_sg": "6e7bb95d-6448-45d6-babd-fe9e955bc0e6",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Piscine village",
       "t_regie": "CAISSE",
       "t_theme": "BLEU_FONCE",
@@ -122,7 +122,7 @@
     },
     {
       "uid": "f13b7f49-885e-43ab-b22d-823eeeac7bfd",
-      "uid_sg": "1cb4d2fb-49d8-4e84-bf11-83995473c515",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Terrasse",
       "t_regie": "CAISSE",
       "t_theme": "ORANGE_CLAIR",
@@ -130,7 +130,7 @@
     },
     {
       "uid": "4f75b01b-5a4b-4c7b-b49c-157518506975",
-      "uid_sg": "a784c0ae-955b-4f54-a0ba-f85abfdfabdf",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Evènements village",
       "t_regie": "CAISSE",
       "t_theme": "VERT_CLAIR",
@@ -138,7 +138,7 @@
     },
     {
       "uid": "193f39de-12ad-428f-8d59-c8167cd93842",
-      "uid_sg": "577ca5b9-d217-4888-8ec0-df43f33d87ba",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Marché de Noël village",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
@@ -146,7 +146,7 @@
     },
     {
       "uid": "b1ebdc11-0785-489c-8429-1983b3bac1d5",
-      "uid_sg": "5e5d0c5a-d911-4b99-92fa-0f7b99c5eb35",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Marché de Noël centre",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
@@ -154,7 +154,7 @@
     },
     {
       "uid": "e8232428-9880-450e-8b30-d994857dce70",
-      "uid_sg": "ff10f060-9e26-4069-8a5a-6dbb6fc69f7e",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Marché de Noël périphérie",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
@@ -162,7 +162,7 @@
     },
     {
       "uid": "dc4b2d43-fc08-461b-9eb5-7bd2a0525292",
-      "uid_sg": "f2e1c77d-a80c-4f02-ae35-4974198f8cd4",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Marché de Noël parkings",
       "t_regie": "CAISSE",
       "t_theme": "ROSE",
@@ -170,7 +170,7 @@
     },
     {
       "uid": "475aedb4-294c-4ecb-a64a-7e0a8ad64ac0",
-      "uid_sg": "d17ab160-07ea-4063-92c9-7aee96e114f8",
+	  "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Fête foraine",
       "t_regie": "CAISSE",
       "t_theme": "VERT_CLAIR",
@@ -178,7 +178,7 @@
     },
     {
       "uid": "877b80dc-c9c7-4f0a-aefa-705cc3217600",
-      "uid_sg": "422535bb-f006-4147-8e36-d306e2817388",
+      "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "nom": "Food Truck",
       "t_regie": "CAISSE",
       "t_theme": "VIOLET",
@@ -186,6 +186,7 @@
     },
     {
       "uid": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
       "uid_sg": "937e3c53-cff3-4182-854b-dd3f6e3b322a",
       "nom": "Cirques et Evènements",
       "t_regie": "CAISSE",
@@ -194,6 +195,7 @@
     },
     {
       "uid": "b3b6ea74-28ae-4b91-a9ef-74a25e433f03",
+	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
       "uid_sg": "937e3c53-cff3-4182-854b-dd3f6e3b322a",
       "nom": "Foires et Marchés",
       "t_regie": "CAISSE",
@@ -202,6 +204,7 @@
     },
     {
       "uid": "7af538c4-c1d9-4e79-a932-25398d6818ef",
+	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
       "uid_sg": "8b0babdd-bb04-4096-81d3-b6078acc39ff",
       "nom": "Foires et Evènements",
       "t_regie": "CAISSE",
@@ -210,6 +213,7 @@
     },
     {
       "uid": "b03c3b96-ee9b-456c-9a01-8ba113a459ce",
+	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
       "uid_sg": "8b0babdd-bb04-4096-81d3-b6078acc39ff",
       "nom": "Droits de Place",
       "t_regie": "CAISSE",
