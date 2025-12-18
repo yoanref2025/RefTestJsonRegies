@@ -219,6 +219,22 @@
       "t_regie": "CAISSE",
       "t_theme": "MARRON_CLAIR",
 	  "t_ico": "marche"
+    },
+	{
+      "uid": "37af3b71-b7af-46fe-9358-6c24d157181a",
+	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
+      "nom": "Brocantes",
+      "t_regie": "CAISSE",
+      "t_theme": "ROSE",
+	  "t_ico": "brocante"
+    },
+    {
+      "uid": "a152baf4-056d-4a70-8553-4877aa617f50",
+	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
+      "nom": "Fêtes foraines",
+      "t_regie": "CAISSE",
+      "t_theme": "JAUNE",
+	  "t_ico": "foire"
     }
   ]
 }
